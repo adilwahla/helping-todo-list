@@ -1,1 +1,1 @@
-this is the text being added to the todo file
+this is the text being added to the todo file and im testing the diff command 
