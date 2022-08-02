@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the text being added to the todo file and im testing the diff command XDD
+=======
+this is the text being added to the todo file
+>>>>>>> parent of 8f26313 (This is for texting git diff)
